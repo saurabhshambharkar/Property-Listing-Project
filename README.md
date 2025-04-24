@@ -26,6 +26,16 @@
 
 ---
 
+## 🛠️ Tech Stack
+- **React** – JavaScript library for building user interfaces.
+- **Vite** – Next-generation, fast build tool for React apps.
+- **Vanilla CSS** – Custom styling with pure CSS for lightweight design.
+- **Tailwind CSS** – Utility-first CSS framework for rapid UI development.
+- **React Icons** – A collection of customizable icons for React apps.
+- **JavaScript** – Core programming language for app logic.
+
+---
+
 ## 🖼️ Preview
 
 | Explore | Property Details |
