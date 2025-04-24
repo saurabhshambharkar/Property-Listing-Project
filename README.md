@@ -17,12 +17,12 @@
 ---
 
 ## ✨ Features
-- **Responsive Design** – Looks great on phones, tablets, and desktops.  
-- **Powerful Search & Filters** – Narrow results by price, location, beds, and more.  
-- **Grid ↔︎ List Toggle** – Switch views instantly with smooth animations.  
-- **Image Carousel** – Swipe through high‑resolution photos on each listing page.  
-- **Quick Inquiry Form** – Contact the agent without leaving the property view.  
-- **Vanilla CSS** – Zero UI frameworks; lightweight and fully customizable.
+- **Responsive Design** – Optimized for phones, tablets, and desktops.  
+- **Powerful Search & Filters** – Filter by price, location, bedrooms, and more.  
+- **Grid ↔︎ List Toggle** – Smoothly switch between views.  
+- **Image Carousel** – Swipe through property images.  
+- **Quick Inquiry Form** – Contact the agent instantly.  
+- **Vanilla CSS** – Lightweight, no UI frameworks.
 
 ---
 
@@ -43,15 +43,15 @@
 ### Installation
 
 ```bash
-# 1. Clone
+# 1. Clone the repository
 git clone https://github.com/your-user/property-listing.git
 cd property-listing
 
 # 2. Install dependencies
 npm install
 
-# 3. Run the dev server
+# 3. Run the development server
 npm run dev
 
-# 4. Open
+# 4. Open in your browser
 http://localhost:5173
