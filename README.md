@@ -3,7 +3,6 @@
 <h1 align="center">🏠 Property Listing Platform</h1>
 <p align="center">
   A lightning‑fast React + Vite web app for discovering, filtering, and inquiring about real‑estate listings.<br/>
-  <a href="🔗 LIVE_DEMO_URL" target="_blank"><strong>🚀 Live Demo</strong></a>
 </p>
 
 <div align="center">
