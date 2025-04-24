@@ -1,74 +1,57 @@
-# Property Listing Platform
+<p align="center">
+  <img src="🔗/logo.png" width="120" alt="Property Listing Platform logo"/>
+</p>
 
-A modern React application for browsing and searching properties. Built with Vite and vanilla CSS.
+<h1 align="center">🏠 Property Listing Platform</h1>
+<p align="center">
+  A lightning‑fast React + Vite web app for discovering, filtering, and inquiring about real‑estate listings.<br/>
+  <a href="🔗 LIVE_DEMO_URL" target="_blank"><strong>🚀 Live Demo</strong></a>
+</p>
 
-## Features
+<div align="center">
+  <img src="https://img.shields.io/badge/stack-React%20%7C%20Vite%20%7C%20CSS-informational"/>
+  <img src="https://img.shields.io/badge/mobile‑first-yes-blueviolet"/>
+  <img src="https://img.shields.io/github/license/your‑user/property-listing.svg"/>
+</div>
 
-- Responsive design for mobile and desktop
-- Property search with multiple filters
-- Detailed property view with image carousel
-- Grid and list view options
-- Contact form for property inquiries
-- Modern and clean UI
+---
 
-## Getting Started
+## ✨ Features
+- **Responsive Design** – Looks great on phones, tablets, and desktops.  
+- **Powerful Search & Filters** – Narrow results by price, location, beds, and more.  
+- **Grid ↔︎ List Toggle** – Switch views instantly with smooth animations.  
+- **Image Carousel** – Swipe through high‑resolution photos on each listing page.  
+- **Quick Inquiry Form** – Contact the agent without leaving the property view.  
+- **Vanilla CSS** – Zero UI frameworks; lightweight and fully customizable.
+
+---
+
+## 🖼️ Preview
+
+| Explore | Property Details |
+|:--:|:--:|
+| ![Explore](🔗/screens/explore.png) | ![Details](🔗/screens/details.png) |
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
-
-- Node.js (v14 or higher)
-- npm (v6 or higher)
+- **Node.js** ≥ 14  
+- **npm** ≥ 6
 
 ### Installation
 
-1. Clone the repository:
 ```bash
-git clone <repository-url>
+# 1. Clone
+git clone https://github.com/your-user/property-listing.git
 cd property-listing
-```
 
-2. Install dependencies:
-```bash
+# 2. Install dependencies
 npm install
-```
 
-3. Start the development server:
-```bash
+# 3. Run the dev server
 npm run dev
-```
 
-4. Open your browser and navigate to `http://localhost:5173`
-
-## Project Structure
-
-```
-property-listing/
-├── src/
-│   ├── components/     # Reusable components
-│   ├── pages/         # Page components
-│   ├── styles/        # CSS styles
-│   ├── assets/        # Static assets
-│   ├── utils/         # Utility functions
-│   ├── App.jsx        # Main App component
-│   └── main.jsx       # Entry point
-├── public/            # Public assets
-└── package.json       # Project dependencies
-```
-
-## Technologies Used
-
-- React
-- Vite
-- React Router
-- Vanilla CSS
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+# 4. Open
+http://localhost:5173
