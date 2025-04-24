@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="🔗/logo.png" width="120" alt="Property Listing Platform logo"/>
-</p>
+
 
 <h1 align="center">🏠 Property Listing Platform</h1>
 <p align="center">
@@ -35,21 +33,6 @@
 - **JavaScript** – Core programming language for app logic.
 
 ---
-
-## 🖼️ Preview
-
-| Explore | Property Details |
-|:--:|:--:|
-| ![Explore](🔗/screens/explore.png) | ![Details](🔗/screens/details.png) |
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- **Node.js** ≥ 14  
-- **npm** ≥ 6
-
 ### Installation
 
 ```bash
